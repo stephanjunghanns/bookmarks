@@ -51,6 +51,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 + **Pricing as a freelancer** | http://ivomynttinen.com/blog/a-different-approach-to-charging-clients-as-a-freelancer/
 
+##### Code & Snippets
++ **CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More** | http://css-tricks.com/css-animation-tricks/
+
 ---
 
 #### APPLICATIONS
