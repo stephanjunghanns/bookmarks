@@ -8,9 +8,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 #### NEWS / EVERYDAY / CURATED
 
 + **Designer News** | http://news.layervault.com | User generated collection of readworthy articles, good designs, ressources. Hackernews for Designers maybe?!
-
 + **Sidebar** | http://sidebar.io/ | The 5 best design links everyday
-
 + **Web Design Weekly** | http://web-design-weekly.com/blog/category/newsletter/ | Links to the best news and articles to hit the interweb during the week
 
 ---
