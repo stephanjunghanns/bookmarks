@@ -13,8 +13,13 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-### AGGREGATORS / TOOLBOX
+### CURATED & COLLECTED
 + **Nylllon** | http://nylllon.com/ | Useful Threads. A collection of curated, useful links in the fields of digital design and development.
++ **Agile Designer** | http://agiledesigners.com/
++ **The Toolbox** | http://thetoolbox.cc/
++ **Unheap** | http://www.unheap.com/ | Plugins
++ **Code Visually** | http://codevisually.com/ | Plugins
++ **jQuerin** | http://jquer.in/ | Plugins
 
 ---
 
