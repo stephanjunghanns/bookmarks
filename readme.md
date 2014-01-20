@@ -33,3 +33,13 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Finest Ego** | http://finestego.com/podcasts/
 + **Dazed** | http://www.mixcloud.com/dazed/
 
+---
+
+#### JOBS
+
++ **Authentic Jobs** | http://www.authenticjobs.com/
++ **We work remotely** | https://weworkremotely.com/
++ **DMiG Jobs** | http://www.designmadeingermany.de/jobs/
++ **Angelist Jobs** | https://angel.co/jobs
++ **DN Jobs** | https://news.layervault.com/jobs
++ **DSGN Jobs** | http://www.dsgnjbs.com/
