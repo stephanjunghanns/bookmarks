@@ -44,3 +44,15 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Angelist Jobs** | https://angel.co/jobs
 + **DN Jobs** | https://news.layervault.com/jobs
 + **DSGN Jobs** | http://www.dsgnjbs.com/
+
+---
+
+#### FINDINGS
+
++ **Pricing as a freelancer** | http://ivomynttinen.com/blog/a-different-approach-to-charging-clients-as-a-freelancer/
+
+---
+
+#### APPLICATIONS
+
++ **Updatey** | https://updatey.com/ | Project tracking, presented beautifully. Help your team & stakeholders visualize the progress of your projects
