@@ -4,7 +4,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 
 
-#### NEWS / EVERYDAY / CURATED
+### NEWS / EVERYDAY / CURATED
 
 + **Designer News** | http://news.layervault.com | User generated collection of readworthy articles, good designs, ressources. Hackernews for Designers maybe?!
 + **Sidebar** | http://sidebar.io/ | The 5 best design links everyday
@@ -13,12 +13,12 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### AGGREGATORS / TOOLBOX
+### AGGREGATORS / TOOLBOX
 + **Nylllon** | http://nylllon.com/ | Useful Threads. A collection of curated, useful links in the fields of digital design and development.
 
 ---
 
-#### WEBSITE INSPIRATION
+### WEBSITE INSPIRATION
 
 + **Site Inspire** | http://www.siteinspire.com/
 + **Sites we like** | http://www.designmadeingermany.de/sites-we-like/
@@ -30,7 +30,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### MIXES (Yep, Mixes)
+### MIXES (Yep, Mixes)
 
 + **Bleep** | https://bleep.com/podcast
 + **XLR8R** | http://www.xlr8r.com/podcast
@@ -41,7 +41,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### JOBS
+### JOBS
 
 + **Authentic Jobs** | http://www.authenticjobs.com/
 + **We work remotely** | https://weworkremotely.com/
@@ -52,30 +52,30 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### TYPOGRAPHY
+### TYPOGRAPHY
 + **10 Most popular fonts 2013** | http://www.typeandgrids.com/blog/the-ten-most-popular-web-fonts-of-2013
 
 ---
 
-#### FINDINGS
+### FINDINGS
 
 + **Pricing as a freelancer** | http://ivomynttinen.com/blog/a-different-approach-to-charging-clients-as-a-freelancer/
 + **Good Kickoff Meetings** | http://goodkickoffmeetings.com/ | TECHNIQUES AND EXERCISES FOR WEB PROJECT KICKOFF MEETINGS.
 + **Responsive Deliverables** | http://daverupert.com/2013/04/responsive-deliverables/
 
-##### Code & Snippets
+#### Code & Snippets
 + **CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More** | http://css-tricks.com/css-animation-tricks/
 + **Multi-Line Padded Text** | http://css-tricks.com/multi-line-padded-text/
 
 ---
 
-#### APPLICATIONS
+### APPLICATIONS
 
 + **Updatey** | https://updatey.com/ | Project tracking, presented beautifully. Help your team & stakeholders visualize the progress of your projects
 
 ---
 
-#### TUTORIALS / LEARNING
+### TUTORIALS / LEARNING
 + **Interactive Flexbox Tutorial** | http://www.sketchingwithcss.com/flexbox/
 + **Learning jQuery with Street Fighter and Hadoukens** | http://www.thinkful.com/learn/intro-to-jquery
 + **Try jQuery (Code School)** | http://try.jquery.com/ | Learn the basic building blocks of jQuery
@@ -84,14 +84,14 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### CODE
+### CODE
 + **Snap.js** | https://github.com/jakiestfu/Snap.js | A Library for creating beautiful mobile shelfs in Javascript. Navigation, Off-Canvas
 + **Skrollr** | https://github.com/Prinzhorn/skrollr | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop.
 + **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps aimed towards web designers and developers.
 
 ---
 
-#### IMAGES & FOOTAGE
+### IMAGES & FOOTAGE
 + **Unsplash** | http://unsplash.com/
 + **Gratisography** | http://www.gratisography.com/
 + **Superfamous** | http://superfamous.com/
@@ -104,7 +104,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-#### THEMES / TEMPLATE / Frameworks
+### THEMES / TEMPLATE / Frameworks
 + **Theme Foundry** | http://thethemefoundry.com/ | Professional WordPress templates for your website
 + **Designmodo Startup Framework** | http://designmodo.com/startup/
 
