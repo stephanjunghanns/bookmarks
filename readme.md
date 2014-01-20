@@ -13,6 +13,11 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
+#### AGGREGATORS / TOOLBOX
++ **Nylllon** | http://nylllon.com/ | Useful Threads. A collection of curated, useful links in the fields of digital design and development.
+
+---
+
 #### WEBSITE INSPIRATION
 
 + **Site Inspire** | http://www.siteinspire.com/
@@ -55,12 +60,51 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 #### FINDINGS
 
 + **Pricing as a freelancer** | http://ivomynttinen.com/blog/a-different-approach-to-charging-clients-as-a-freelancer/
++ **Good Kickoff Meetings** | http://goodkickoffmeetings.com/ | TECHNIQUES AND EXERCISES FOR WEB PROJECT KICKOFF MEETINGS.
++ **Responsive Deliverables** | http://daverupert.com/2013/04/responsive-deliverables/
 
 ##### Code & Snippets
 + **CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More** | http://css-tricks.com/css-animation-tricks/
++ **Multi-Line Padded Text** | http://css-tricks.com/multi-line-padded-text/
 
 ---
 
 #### APPLICATIONS
 
 + **Updatey** | https://updatey.com/ | Project tracking, presented beautifully. Help your team & stakeholders visualize the progress of your projects
+
+---
+
+#### TUTORIALS / LEARNING
++ **Interactive Flexbox Tutorial** | http://www.sketchingwithcss.com/flexbox/
++ **Learning jQuery with Street Fighter and Hadoukens** | http://www.thinkful.com/learn/intro-to-jquery
++ **Try jQuery (Code School)** | http://try.jquery.com/ | Learn the basic building blocks of jQuery
++ **http://hackdesign.org/lessons** | http://hackdesign.org/lessons | An easy to follow design course for people who do amazing things.
++ **Learning Xcode 5 As a Designer** | https://medium.com/design-ux/62b643a3a0f7
+
+---
+
+#### CODE
++ **Snap.js** | https://github.com/jakiestfu/Snap.js | A Library for creating beautiful mobile shelfs in Javascript. Navigation, Off-Canvas
++ **Skrollr** | https://github.com/Prinzhorn/skrollr | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop.
++ **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps aimed towards web designers and developers.
+
+---
+
+#### IMAGES & FOOTAGE
++ **Unsplash** | http://unsplash.com/
++ **Gratisography** | http://www.gratisography.com/
++ **Superfamous** | http://superfamous.com/
++ **New Old Stock** | http://nos.twnsnd.co/ | VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES
++ **Personas Flickr Album** | http://www.flickr.com/photos/jasontravis/sets/72157603258446753/
++ **Retro Vectors** | http://retrovectors.com/
++ **Public Domain Review** | http://publicdomainreview.org/
++  **Offset Stock** | http://www.offset.com/ | Award-winning artists. Authentic imagery. All royalty-free.
++  **PSD Devices for Mockups** | http://mockuphone.com/
+
+---
+
+#### THEMES / TEMPLATE / Frameworks
++ **Theme Foundry** | http://thethemefoundry.com/ | Professional WordPress templates for your website
++ **Designmodo Startup Framework** | http://designmodo.com/startup/
+
