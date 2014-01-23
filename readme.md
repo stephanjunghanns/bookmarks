@@ -35,17 +35,6 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-### MIXES (Yep, Mixes)
-
-+ **Bleep** | https://bleep.com/podcast
-+ **XLR8R** | http://www.xlr8r.com/podcast
-+ **Fader** | https://soundcloud.com/fadermedia
-+ **Sonic Router** | http://www.sonicrouter.com/category/sonic-router-mixes/
-+ **Finest Ego** | http://finestego.com/podcasts/
-+ **Dazed** | http://www.mixcloud.com/dazed/
-
----
-
 ### JOBS
 
 + **Authentic Jobs** | http://www.authenticjobs.com/
@@ -75,9 +64,10 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-### APPLICATIONS
+### (WEB)APPLICATIONS
 
 + **Updatey** | https://updatey.com/ | Project tracking, presented beautifully. Help your team & stakeholders visualize the progress of your projects
++ **Lychee** | http://lychee.electerious.com/ | Self-hosted photo-management done right.
 
 ---
 
@@ -114,3 +104,13 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Theme Foundry** | http://thethemefoundry.com/ | Professional WordPress templates for your website
 + **Designmodo Startup Framework** | http://designmodo.com/startup/
 
+---
+
+### MIXES (Yep, Mixes.)
+
++ **Bleep** | https://bleep.com/podcast
++ **XLR8R** | http://www.xlr8r.com/podcast
++ **Fader** | https://soundcloud.com/fadermedia
++ **Sonic Router** | http://www.sonicrouter.com/category/sonic-router-mixes/
++ **Finest Ego** | http://finestego.com/podcasts/
++ **Dazed** | http://www.mixcloud.com/dazed/
