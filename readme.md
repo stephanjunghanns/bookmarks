@@ -20,6 +20,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Unheap** | http://www.unheap.com/ | Plugins
 + **Code Visually** | http://codevisually.com/ | Plugins
 + **jQuerin** | http://jquer.in/ | Plugins
++ **Headlinr** | http://headlinr.com/ | a billboard for startup and product launches
 
 ---
 
