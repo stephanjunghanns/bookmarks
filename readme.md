@@ -50,6 +50,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 ### TYPOGRAPHY
 + **10 Most popular fonts 2013** | http://www.typeandgrids.com/blog/the-ten-most-popular-web-fonts-of-2013
 + **Websafe FontStacks** | http://cssfontstack.com/
++ **Fontello** | http://fontello.com/ | Icon Fonts Generator
 
 ---
 
