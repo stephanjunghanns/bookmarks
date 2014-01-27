@@ -92,14 +92,24 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 ---
 
 ### IMAGES & FOOTAGE
+
+#### Stock Footage
 + **Unsplash** | http://unsplash.com/
 + **Gratisography** | http://www.gratisography.com/
 + **Superfamous** | http://superfamous.com/
 + **New Old Stock** | http://nos.twnsnd.co/ | VINTAGE PHOTOS FROM THE PUBLIC ARCHIVES
++ **Little Visuals** | http://littlevisuals.co/
++ **Offset Stock** | http://www.offset.com/ | Award-winning artists. Authentic imagery. All royalty-free.
++ **Death to the Stock Photo** | http://join.deathtothestockphoto.com/
++ **Picjumbo** | http://picjumbo.com/
++ **The Pattern Library** | http://thepatternlibrary.com/
++ **Gratisography** | http://www.gratisography.com/
++ **Getrefe** | http://getrefe.tumblr.com/
+
+#### Footage
 + **Personas Flickr Album** | http://www.flickr.com/photos/jasontravis/sets/72157603258446753/
 + **Retro Vectors** | http://retrovectors.com/
 + **Public Domain Review** | http://publicdomainreview.org/
-+  **Offset Stock** | http://www.offset.com/ | Award-winning artists. Authentic imagery. All royalty-free.
 +  **PSD Devices for Mockups** | http://mockuphone.com/
 
 ---
@@ -118,3 +128,4 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Sonic Router** | http://www.sonicrouter.com/category/sonic-router-mixes/
 + **Finest Ego** | http://finestego.com/podcasts/
 + **Dazed** | http://www.mixcloud.com/dazed/
++ **Resident Advisor** | http://www.residentadvisor.net/
