@@ -72,6 +72,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Lychee** | http://lychee.electerious.com/ | Self-hosted photo-management done right.
 + **What When* | http://whatwhenapp.com/ | Tidy timelines for freelancers.
 + **Customer.io** | http://customer.io/ Send email based on what people do or don't do in your app
++ **Beatrix** | http://beatrixapp.com/ | Collects topic related articles for your business
 
 ---
 
