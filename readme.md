@@ -74,6 +74,11 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Customer.io** | http://customer.io/ Send email based on what people do or don't do in your app
 + **Beatrix** | http://beatrixapp.com/ | Collects topic related articles for your business
 
+### Image Tools
++ **JPGmini** | http://www.jpegmini.com/
++ **ImageOptim** | http://imageoptim.com/
++ **tinyPNG** | https://tinypng.com/
+
 ---
 
 ### TUTORIALS / LEARNING
