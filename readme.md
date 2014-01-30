@@ -85,7 +85,8 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Interactive Flexbox Tutorial** | http://www.sketchingwithcss.com/flexbox/
 + **Learning jQuery with Street Fighter and Hadoukens** | http://www.thinkful.com/learn/intro-to-jquery
 + **Try jQuery (Code School)** | http://try.jquery.com/ | Learn the basic building blocks of jQuery
-+ **http://hackdesign.org/lessons** | http://hackdesign.org/lessons | An easy to follow design course for people who do amazing things.
++ **http://hackdesign.org/lessons** | http://hackdesign.org/lessons | An easy to follow design course
++ **Developing iOS 7 Apps for iPhone and iPad** | http://bit.ly/1fdZoMY
 + **Learning Xcode 5 As a Designer** | https://medium.com/design-ux/62b643a3a0f7
 
 ---
