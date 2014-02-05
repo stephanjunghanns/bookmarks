@@ -21,6 +21,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Code Visually** | http://codevisually.com/ | Plugins
 + **jQuerin** | http://jquer.in/ | Plugins
 + **Headlinr** | http://headlinr.com/ | a billboard for startup and product launches
++ **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
 
 ---
 
@@ -57,7 +58,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 ### FINDINGS
 
 + **Pricing as a freelancer** | http://ivomynttinen.com/blog/a-different-approach-to-charging-clients-as-a-freelancer/
-+ **Good Kickoff Meetings** | http://goodkickoffmeetings.com/ | TECHNIQUES AND EXERCISES FOR WEB PROJECT KICKOFF MEETINGS.
++ **Good Kickoff Meetings** | http://goodkickoffmeetings.com/ | TECHNIQUES AND EXERCISES FOR KICKOFF MEETINGS.
 + **Responsive Deliverables** | http://daverupert.com/2013/04/responsive-deliverables/
 
 #### Code & Snippets
@@ -68,11 +69,12 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ### (WEB)APPLICATIONS
 
-+ **Updatey** | https://updatey.com/ | Project tracking, presented beautifully. Help your team & stakeholders visualize the progress of your projects
++ **Updatey** | https://updatey.com/ | Project tracking, presented beautifully.
 + **Lychee** | http://lychee.electerious.com/ | Self-hosted photo-management done right.
 + **What When* | http://whatwhenapp.com/ | Tidy timelines for freelancers.
 + **Customer.io** | http://customer.io/ Send email based on what people do or don't do in your app
 + **Beatrix** | http://beatrixapp.com/ | Collects topic related articles for your business
++ **Cactus** | http://cactusformac.com/ | A better workflow for hand coding websites
 
 ### Image Tools
 + **JPGmini** | http://www.jpegmini.com/
