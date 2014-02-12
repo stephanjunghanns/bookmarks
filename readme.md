@@ -21,7 +21,10 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Code Visually** | http://codevisually.com/ | Plugins
 + **jQuerin** | http://jquer.in/ | Plugins
 + **Headlinr** | http://headlinr.com/ | a billboard for startup and product launches
++ 
+#### PATTERNS
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
++ **Pttrns** | http://pttrns.com/ | Mobile UI Patterns
 
 ---
 
