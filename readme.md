@@ -78,6 +78,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Customer.io** | http://customer.io/ Send email based on what people do or don't do in your app
 + **Beatrix** | http://beatrixapp.com/ | Collects topic related articles for your business
 + **Cactus** | http://cactusformac.com/ | A better workflow for hand coding websites
++ **Giffffr** | http://gifff.fr/ | Create Gifs from Youtube Movies
 
 ### Image Tools
 + **JPGmini** | http://www.jpegmini.com/
