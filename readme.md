@@ -80,6 +80,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Beatrix** | http://beatrixapp.com/ | Collects topic related articles for your business
 + **Cactus** | http://cactusformac.com/ | A better workflow for hand coding websites
 + **Giffffr** | http://gifff.fr/ | Create Gifs from Youtube Movies
++ **Recordit** | http://recordit.co/ | Fast Screencast Recording
 
 ### Image Tools
 + **JPGmini** | http://www.jpegmini.com/
