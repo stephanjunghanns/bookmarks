@@ -26,7 +26,10 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
 + **Pttrns** | http://pttrns.com/ | Mobile UI Patterns
 + **First Time UX** | http://firsttimeux.tumblr.com/ | Onboardings
+
+##### INTERACTION
 + **User your Interface** | http://useyourinterface.com/
++ **Hoverstates** | http://hoverstat.es/
 
 ---
 
@@ -125,7 +128,6 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Death to the Stock Photo** | http://join.deathtothestockphoto.com/
 + **Picjumbo** | http://picjumbo.com/
 + **The Pattern Library** | http://thepatternlibrary.com/
-+ **Gratisography** | http://www.gratisography.com/
 + **Getrefe** | http://getrefe.tumblr.com/
 
 #### Footage
