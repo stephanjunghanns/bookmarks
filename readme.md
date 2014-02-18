@@ -29,7 +29,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ---
 
-### WEBSITE INSPIRATION
+### INSPIRATION
+
+#### WEBSITE
 
 + **Site Inspire** | http://www.siteinspire.com/
 + **Sites we like** | http://www.designmadeingermany.de/sites-we-like/
@@ -38,6 +40,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **HTML Inspiration** | http://htmlinspiration.com/
 + **Awwwards** | http://www.awwwards.com/
 + **One Page Love** | http://onepagelove.com/
+
+#### GRAPHIC DESIGN
++ **Niice** | http://niice.co/
 
 ---
 
