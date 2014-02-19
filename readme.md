@@ -96,6 +96,10 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Giffffr** | http://gifff.fr/ | Create Gifs from Youtube Movies
 + **Recordit** | http://recordit.co/ | Fast Screencast Recording
 
+#### Prototyping
++ **Composite** | http://www.getcomposite.com/
++ **Flinto** | https://www.flinto.com/
+
 ### Image Tools
 + **JPGmini** | http://www.jpegmini.com/
 + **ImageOptim** | http://imageoptim.com/
