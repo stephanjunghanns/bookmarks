@@ -6,15 +6,16 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 ### NEWS / EVERYDAY / CURATED
 
-+ **Designer News** | http://news.layervault.com | User generated collection of readworthy articles, good designs, ressources. Hackernews for Designers maybe?!
++ **Designer News** | http://news.layervault.com | Collection of readworthy articles, good designs, ressources.
 + **Sidebar** | http://sidebar.io/ | The 5 best design links everyday
-+ **Web Design Weekly** | http://web-design-weekly.com/blog/category/newsletter/ | Links to the best news and articles to hit the interweb during the week
++ **Web Design Weekly** | http://web-design-weekly.com/blog/category/newsletter/
 + **Trending on Github** | https://github.com/trending
++ **Geisha** | http://geisha.io/app/ | Sidebar, HN/DN, Behance, Dribbble,...
 
 ---
 
 ### CURATED & COLLECTED
-+ **Nylllon** | http://nylllon.com/ | Useful Threads. A collection of curated, useful links in the fields of digital design and development.
++ **Nylllon** | http://nylllon.com/ | Curated, useful links in the fields of digital design and development.
 + **Agile Designer** | http://agiledesigners.com/
 + **The Toolbox** | http://thetoolbox.cc/
 + **Unheap** | http://www.unheap.com/ | Plugins
@@ -95,6 +96,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Cactus** | http://cactusformac.com/ | A better workflow for hand coding websites
 + **Giffffr** | http://gifff.fr/ | Create Gifs from Youtube Movies
 + **Recordit** | http://recordit.co/ | Fast Screencast Recording
++ **Feedbag** | http://feedbag.io/ | Lightweight Design Feedback
 
 #### Prototyping
 + **Composite** | http://www.getcomposite.com/
