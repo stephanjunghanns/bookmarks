@@ -122,6 +122,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Snap.js** | https://github.com/jakiestfu/Snap.js | A Library for creating beautiful mobile shelfs in Javascript. Navigation, Off-Canvas
 + **Skrollr** | https://github.com/Prinzhorn/skrollr | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop.
 + **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps aimed towards web designers and developers.
++ **Date IMG** | http://dev.twoblok.es/data-img/ | Tiny jQuery plugin to deal with responsive image delivery.
 
 ---
 
