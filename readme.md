@@ -26,6 +26,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 #### PATTERNS
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
 + **Pttrns** | http://pttrns.com/ | Mobile UI Patterns
++ **UI-Patterns** | http://ui-patterns.com/
 
 ##### Onboarding
 + **First Time UX** | http://firsttimeux.tumblr.com/ | Onboardings
