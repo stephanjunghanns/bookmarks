@@ -98,6 +98,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Giffffr** | http://gifff.fr/ | Create Gifs from Youtube Movies
 + **Recordit** | http://recordit.co/ | Fast Screencast Recording
 + **Feedbag** | http://feedbag.io/ | Lightweight Design Feedback
++ **img.ly** | http://sdk.img.ly/ | photo editor SDK for web and mobile
 
 #### Prototyping
 + **Composite** | http://www.getcomposite.com/
