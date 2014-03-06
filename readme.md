@@ -82,7 +82,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Responsive Deliverables** | http://daverupert.com/2013/04/responsive-deliverables/
 
 #### Code & Snippets
-+ **CSS Animation Tricks: State Jumping, Negative Delays, Animating Origin, and More** | http://css-tricks.com/css-animation-tricks/
++ **CSS Animation Tricks: State Jumping, Negative Delays,...** | http://css-tricks.com/css-animation-tricks/
 + **Multi-Line Padded Text** | http://css-tricks.com/multi-line-padded-text/
 
 ---
@@ -122,9 +122,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 ---
 
 ### CODE
-+ **Snap.js** | https://github.com/jakiestfu/Snap.js | A Library for creating beautiful mobile shelfs in Javascript. Navigation, Off-Canvas
-+ **Skrollr** | https://github.com/Prinzhorn/skrollr | Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop.
-+ **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps aimed towards web designers and developers.
++ **Snap.js** | https://github.com/jakiestfu/Snap.js | A Library for creating beautiful mobile shelfs in Javascript.
++ **Skrollr** | https://github.com/Prinzhorn/skrollr | Parallax scrolling library for mobile and desktop.
++ **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps
 + **Date IMG** | http://dev.twoblok.es/data-img/ | Tiny jQuery plugin to deal with responsive image delivery.
 
 ---
@@ -143,6 +143,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Picjumbo** | http://picjumbo.com/
 + **The Pattern Library** | http://thepatternlibrary.com/
 + **Getrefe** | http://getrefe.tumblr.com/
++ **IM Free** | http://imcreator.com/free
 
 #### Footage
 + **Personas Flickr Album** | http://www.flickr.com/photos/jasontravis/sets/72157603258446753/
