@@ -72,6 +72,8 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **10 Most popular fonts 2013** | http://www.typeandgrids.com/blog/the-ten-most-popular-web-fonts-of-2013
 + **Websafe FontStacks** | http://cssfontstack.com/
 + **Fontello** | http://fontello.com/ | Icon Fonts Generator
++ **Good for longform** | https://typekit.com/lists/good-for-longform
++ **Responsive Text with Viewport Units** | http://demosthenes.info/blog/739/Creating-Responsive-Hero-Text-With-vw-Units
 
 ---
 
