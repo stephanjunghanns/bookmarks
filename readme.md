@@ -129,6 +129,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Skrollr** | https://github.com/Prinzhorn/skrollr | Parallax scrolling library for mobile and desktop.
 + **Snazzy Maps** | http://snazzymaps.com/ | A repository of different color schemes for Google Maps
 + **Date IMG** | http://dev.twoblok.es/data-img/ | Tiny jQuery plugin to deal with responsive image delivery.
++ **Nanobar** | http://nanobar.micronube.com/ | Loading Animation on top of the browser
 
 ---
 
