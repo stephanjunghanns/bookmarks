@@ -55,6 +55,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 #### GRAPHIC DESIGN
 + **Niice** | http://niice.co/
 
+#### TYPOGRAPHY
++ **Typeverything** | http://typeverything.com/
+
 ---
 
 ### JOBS
