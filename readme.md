@@ -131,7 +131,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Date IMG** | http://dev.twoblok.es/data-img/ | Tiny jQuery plugin to deal with responsive image delivery.
 + **Nanobar** | http://nanobar.micronube.com/ | Loading Animation on top of the browser
 + **NProgress** | http://ricostacruz.com/nprogress/ | See above
-
++ **XDKAirMenu for iOS** | https://www.cocoacontrols.com/controls/xdkairmenu | Off Canvas iOS
 ---
 
 ### IMAGES & FOOTAGE
