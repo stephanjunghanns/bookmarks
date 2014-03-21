@@ -135,6 +135,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Nanobar** | http://nanobar.micronube.com/ | Loading Animation on top of the browser
 + **NProgress** | http://ricostacruz.com/nprogress/ | See above
 + **XDKAirMenu for iOS** | https://www.cocoacontrols.com/controls/xdkairmenu | Off Canvas iOS
++ **Type Rendering** | http://typerendering.com/
 
 ---
 
