@@ -105,6 +105,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Recordit** | http://recordit.co/ | Fast Screencast Recording
 + **Feedbag** | http://feedbag.io/ | Lightweight Design Feedback
 + **img.ly** | http://sdk.img.ly/ | photo editor SDK for web and mobile
++ **Appear.in** | https://appear.in/ | One Click Video conversations
 
 #### Prototyping
 + **Composite** | http://www.getcomposite.com/
