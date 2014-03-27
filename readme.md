@@ -38,6 +38,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Six UX** | http://sixux.com/
 + **UI Animations** | http://ui-animations.tumblr.com/
 
+##### READ
++ **Brain Gems for Decision Makers** | http://coglode.com/
+
 ---
 
 ### INSPIRATION
