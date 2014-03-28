@@ -55,6 +55,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Awwwards** | http://www.awwwards.com/
 + **One Page Love** | http://onepagelove.com/
 
+#### NEWSLETTER
++ **Really Good Emails** | http://reallygoodemails.com/
+
 #### GRAPHIC DESIGN
 + **Niice** | http://niice.co/
 
