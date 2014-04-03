@@ -84,6 +84,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Fontello** | http://fontello.com/ | Icon Fonts Generator
 + **Good for longform** | https://typekit.com/lists/good-for-longform
 + **Responsive Text with Viewport Units** | http://demosthenes.info/blog/739/Creating-Responsive-Hero-Text-With-vw-Units
++ **Type Scale** | http://type-scale.com/ | Visual Calculator
 
 ---
 
