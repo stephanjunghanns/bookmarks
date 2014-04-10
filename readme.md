@@ -113,6 +113,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Feedbag** | http://feedbag.io/ | Lightweight Design Feedback
 + **img.ly** | http://sdk.img.ly/ | photo editor SDK for web and mobile
 + **Appear.in** | https://appear.in/ | One Click Video conversations
++ **Gridlover** | http://www.gridlover.net/app/ | modular scale and vertical rhythm Generator
 
 #### Prototyping
 + **Composite** | http://www.getcomposite.com/
