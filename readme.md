@@ -29,6 +29,8 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **UI-Patterns** | http://ui-patterns.com/
 + **Inspired UI** | http://inspired-ui.com/
 + **UX Archive** | http://uxarchive.com/
++ **Android UX** | http://androidux.com/
++ **Portkit** | http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/
 
 ##### Onboarding
 + **First Time UX** | http://firsttimeux.tumblr.com/ | Onboardings
@@ -39,6 +41,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Hoverstates** | http://hoverstat.es/
 + **Six UX** | http://sixux.com/
 + **UI Animations** | http://ui-animations.tumblr.com/
++ **GUIFF** | http://guifff.com/
 
 ##### READ
 + **Brain Gems for Decision Makers** | http://coglode.com/
@@ -59,6 +62,12 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 #### NEWSLETTER
 + **Really Good Emails** | http://reallygoodemails.com/
+
+#### UI
++ **GUI Pinterest Board** | https://www.pinterest.com/fromupnorth/gui/
++ **GUI Pinterest Board 2** | https://www.pinterest.com/scottbelsky/ux-ui-innovation/
++ **UX Porn** | http://uxporn.uxpin.com/
++ **Mobile Mozaik** | http://www.mobilemozaic.com/
 
 #### GRAPHIC DESIGN
 + **Niice** | http://niice.co/
