@@ -145,6 +145,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Developing iOS 7 Apps for iPhone and iPad** | http://bit.ly/1fdZoMY
 + **Learning Xcode 5 As a Designer** | https://medium.com/design-ux/62b643a3a0f7
 + **Gibbon** | https://gibbon.co/
++ **Android Design Tips** | http://www.androiddesign.tips/
 
 ---
 
