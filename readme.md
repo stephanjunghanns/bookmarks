@@ -23,6 +23,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **jQuerin** | http://jquer.in/ | Plugins
 + **Headlinr** | http://headlinr.com/ | a billboard for startup and product launches
 + **OOzled** | http://oozled.com/
++ **Style Guides** | https://github.com/astanush/ux/blob/master/style-guides.md
 
 #### PATTERNS
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
