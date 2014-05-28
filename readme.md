@@ -24,6 +24,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Headlinr** | http://headlinr.com/ | a billboard for startup and product launches
 + **OOzled** | http://oozled.com/
 + **Style Guides** | https://github.com/astanush/ux/blob/master/style-guides.md
++ **Device Widths** | http://www.mydevice.io/devices/
 
 #### PATTERNS
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
