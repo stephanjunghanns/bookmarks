@@ -25,6 +25,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **OOzled** | http://oozled.com/
 + **Style Guides** | https://github.com/astanush/ux/blob/master/style-guides.md
 + **Device Widths** | http://www.mydevice.io/devices/
++ **Flaticons** | http://www.flaticon.com/ | Free Icons
 
 #### PATTERNS
 + **Pattern Tab** | http://patterntap.com/ | Curated Collection of common Webpatterns
