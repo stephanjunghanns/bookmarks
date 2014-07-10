@@ -180,6 +180,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **The Pattern Library** | http://thepatternlibrary.com/
 + **Getrefe** | http://getrefe.tumblr.com/
 + **IM Free** | http://imcreator.com/free
++ **Video** | http://mazwai.com/
 
 #### Footage
 + **Personas Flickr Album** | http://www.flickr.com/photos/jasontravis/sets/72157603258446753/
