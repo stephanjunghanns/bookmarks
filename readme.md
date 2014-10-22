@@ -79,6 +79,9 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 #### TYPOGRAPHY
 + **Typeverything** | http://typeverything.com/
 
+#### PRINT
++ **Folt** | http://folt.co/
+
 ---
 
 ### JOBS
