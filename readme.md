@@ -78,6 +78,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 
 #### TYPOGRAPHY
 + **Typeverything** | http://typeverything.com/
++ **Myfonts Free** | http://www.myfonts.com/search/lowest_price%3A%5B%2A+TO+0%5D/fonts/
 
 #### PRINT
 + **Folt** | http://folt.co/
