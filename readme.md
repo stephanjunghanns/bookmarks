@@ -185,6 +185,7 @@ Growing list of quality links to ressources, articles and stuff. (This may becom
 + **Getrefe** | http://getrefe.tumblr.com/
 + **IM Free** | http://imcreator.com/free
 + **Video** | http://mazwai.com/
++ **Stock Up** | http://www.sitebuilderreport.com/stock-up
 
 #### Footage
 + **Personas Flickr Album** | http://www.flickr.com/photos/jasontravis/sets/72157603258446753/
